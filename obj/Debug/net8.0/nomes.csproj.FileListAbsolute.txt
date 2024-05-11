@@ -1,0 +1,28 @@
+C:\Users\vinicius.dallabona\Desktop\nomes\obj\Debug\net8.0\nomes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinicius.dallabona\Desktop\nomes\obj\Debug\net8.0\nomes.AssemblyInfoInputs.cache
+C:\Users\vinicius.dallabona\Desktop\nomes\obj\Debug\net8.0\nomes.AssemblyInfo.cs
+C:\Users\vinicius.dallabona\Desktop\nomes\obj\Debug\net8.0\nomes.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.dallabona\Desktop\nomes\bin\Debug\net8.0\nomes.exe
+C:\Users\vinicius.dallabona\Desktop\nomes\bin\Debug\net8.0\nomes.deps.json
+C:\Users\vinicius.dallabona\Desktop\nomes\bin\Debug\net8.0\nomes.runtimeconfig.json
+C:\Users\vinicius.dallabona\Desktop\nomes\bin\Debug\net8.0\nomes.dll
+C:\Users\vinicius.dallabona\Desktop\nomes\bin\Debug\net8.0\nomes.pdb
+C:\Users\vinicius.dallabona\Desktop\nomes\obj\Debug\net8.0\nomes.dll
+C:\Users\vinicius.dallabona\Desktop\nomes\obj\Debug\net8.0\refint\nomes.dll
+C:\Users\vinicius.dallabona\Desktop\nomes\obj\Debug\net8.0\nomes.pdb
+C:\Users\vinicius.dallabona\Desktop\nomes\obj\Debug\net8.0\nomes.genruntimeconfig.cache
+C:\Users\vinicius.dallabona\Desktop\nomes\obj\Debug\net8.0\ref\nomes.dll
+C:\Users\vinicius.dallabona\Desktop\nomes - list\obj\Debug\net8.0\nomes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinicius.dallabona\Desktop\nomes - list\obj\Debug\net8.0\nomes.AssemblyInfoInputs.cache
+C:\Users\vinicius.dallabona\Desktop\nomes - list\obj\Debug\net8.0\nomes.AssemblyInfo.cs
+C:\Users\vinicius.dallabona\Desktop\nomes - list\obj\Debug\net8.0\nomes.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.dallabona\Desktop\nomes - list\obj\Debug\net8.0\nomes.dll
+C:\Users\vinicius.dallabona\Desktop\nomes - list\obj\Debug\net8.0\refint\nomes.dll
+C:\Users\vinicius.dallabona\Desktop\nomes - list\obj\Debug\net8.0\nomes.pdb
+C:\Users\vinicius.dallabona\Desktop\nomes - list\bin\Debug\net8.0\nomes.exe
+C:\Users\vinicius.dallabona\Desktop\nomes - list\bin\Debug\net8.0\nomes.deps.json
+C:\Users\vinicius.dallabona\Desktop\nomes - list\bin\Debug\net8.0\nomes.runtimeconfig.json
+C:\Users\vinicius.dallabona\Desktop\nomes - list\bin\Debug\net8.0\nomes.dll
+C:\Users\vinicius.dallabona\Desktop\nomes - list\bin\Debug\net8.0\nomes.pdb
+C:\Users\vinicius.dallabona\Desktop\nomes - list\obj\Debug\net8.0\nomes.genruntimeconfig.cache
+C:\Users\vinicius.dallabona\Desktop\nomes - list\obj\Debug\net8.0\ref\nomes.dll
