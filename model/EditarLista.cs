@@ -22,7 +22,7 @@ namespace Batata
                     Console.WriteLine($" índice - {itens.IndexOf(item)}");
                 }
                 Console.WriteLine("----------------------------------------------------");
-                //  itens.ForEach(Console.WriteLine); Também dava pra fazer desse jeito que é menor
+                //  itens.ForEach(Console.WriteLine); Também dava pra fazer desse jeito que é menor mas eu também preciso do index
             }
             else
             {
@@ -35,10 +35,9 @@ namespace Batata
             int indice = Convert.ToInt32(Console.ReadLine());
             if (indice >= 0 && indice < itens.Count)
             {
-                Console.WriteLine("Digite o novo nome: ");
-                string novoNome = Console.ReadLine() ?? "";
                 string nomeAntigo = itens[indice];
-                itens[indice] = novoNome;
+                Console.WriteLine("Digite o novo nome: ");
+                itens[indice] = Console.ReadLine() ?? "";
                 Console.WriteLine($"Nome alterado de {nomeAntigo} para {itens[indice]}.");
             }
             else
