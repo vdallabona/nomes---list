@@ -48,6 +48,7 @@ namespace Batata
         }
         public static void DeletarNomes()
         {
+            indexDeletados.Clear(); // limpar a lista caso o usuário delete mais de uma vez
             int deletado;
             int op;
             Console.WriteLine("------------- Os nomes cadastrados são -------------");
@@ -75,6 +76,8 @@ namespace Batata
                 Console.WriteLine("[2] - Não");
                 op = Convert.ToInt32(Console.ReadLine());
             }while(op == 1);
+            indexDeletados.Sort((a, b) => b.CompareTo(a));
+            Console.WriteLine(indexDeletados);
             for (int i = 0; i < indexDeletados.Count; i++)
             {
                 deletado = indexDeletados[i];

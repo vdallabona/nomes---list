@@ -26,3 +26,4 @@ C:\Users\vinicius.dallabona\Desktop\nomes - list\bin\Debug\net8.0\nomes.dll
 C:\Users\vinicius.dallabona\Desktop\nomes - list\bin\Debug\net8.0\nomes.pdb
 C:\Users\vinicius.dallabona\Desktop\nomes - list\obj\Debug\net8.0\nomes.genruntimeconfig.cache
 C:\Users\vinicius.dallabona\Desktop\nomes - list\obj\Debug\net8.0\ref\nomes.dll
+C:\Users\vinicius.dallabona\Desktop\nomes - list\obj\Debug\net8.0\nomes.sourcelink.json
